@@ -1,0 +1,4 @@
+{
+  "socket": "/var/run/docker.sock",
+  "baseDir": "/var/log"
+}
