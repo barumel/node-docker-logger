@@ -1,0 +1,10 @@
+{
+  "socket": "/var/run/docker.sock",
+  "baseDir": "/var/log",
+  "logrotate": {
+    "logdir": "/var/log",
+    "interval": "daily",
+    "rotate": 7,
+    "size": "10M"
+  }
+}
